@@ -1,0 +1,63 @@
+body
+{
+background-image:url("7.jpg");
+background-size:cover;
+color: gold;
+}
+h1
+{
+color: gold;
+background-color: black;
+font-size: 80px;
+text-align: center;
+}
+.d1
+{
+  color: mediumspringgreen;
+  font-style: italic;
+  font-size: 20px;
+  
+}
+.d2
+{
+  color: goldenrod;
+  font-style: italic;
+  font-size: 20px;
+}
+ul
+{
+list-style-type:none;
+overflow:hidden;
+
+
+}
+li
+{
+float:left;
+padding:35px;
+font-size: 40px;
+color: aquamarine;
+font-style: italic;
+}
+.a1
+{
+  text-align: center;
+  background-color: black;
+  
+}
+.kj
+{
+  text-align: left;
+  border: solid;
+  border-width: 5px;
+  width: 600px;
+
+  height: 700px;
+  position: relative;
+  left: 30%;
+}
+#z:hover
+{
+  transform:scale(1.5,1.5)
+
+}

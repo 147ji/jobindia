@@ -1,0 +1,108 @@
+body
+{
+background-image:url("7.jpg");
+background-size:cover;
+}
+h1
+{
+ text-align: center; 
+font-size: 80px;
+color: gold;
+}
+
+
+h4
+{
+  color: greenyellow;
+  }
+
+ul
+{
+list-style-type:none;
+overflow:hidden;
+
+
+}
+li
+{
+float:left;
+padding:35px;
+font-size: 40px;
+color: aquamarine;
+font-style: italic;
+}
+
+h2
+{
+color:white;
+}
+
+.d1
+{
+  color: green;
+  
+  
+}
+.div1
+{
+  
+  margin: 0;
+  width: 100%;
+  
+}
+
+.c2
+{
+  color: goldenrod;
+}
+.d1
+{
+  color: mediumspringgreen;
+  font-style: italic;
+  font-size: 20px;
+  
+}
+.d2
+{
+  color: goldenrod;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.a1
+{
+  text-align: center;
+  background-color: black;
+  background-size: cover;
+}
+@keyframes ani{
+  from
+  {
+    width: 0px;
+    height: 0px;
+  }
+to
+{
+  width: 200px;
+  height: 200px;
+}
+}
+.c
+{
+animation: ani 15s ease ;
+}
+
+h2
+{
+  text-align: center;
+  color:greenyellow;
+
+}
+#j:hover
+{
+  transform:scale(1.25,1.25)
+}
+#z:hover
+{
+  transform:scale(1.5,1.5)
+}
